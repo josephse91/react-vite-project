@@ -27,7 +27,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-
+      <button>Fake BUtton ama mess up the site!!!</button>
     </div>
   )
 }
